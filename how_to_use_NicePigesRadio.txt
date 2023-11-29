@@ -1,0 +1,60 @@
+#### -------- UTILISTION DE NICE PIGES RADIO -------- ####
+
+################################
+###    0 : Installation     ###
+################################
+
+Assurez-vous que python soit installé sur votre PC (ouvrez CMD et tapez "python --version", si la version de python s'affiche vous avez python !). Sinon, installez Python depuis la page officielle de python (https://www.python.org/downloads/)
+
+Lancez le fichier "setup_nicepiges"
+
+Une fois l'installation terminée, fermez la fenêtre d'installation.
+
+
+
+################################
+### 1 : Ajouter votre radio ###
+################################
+
+Déplacez vous dans le dossier de l'une des instances (ex: /insance-1)
+
+Pour ajouter votre radio, ouvrez avec un éditeur de texte (bloc notes, vscode...) 
+le fichier "soft_nice_piges.py" et modifier les valeurs entre " " des lignes indiquées au début.
+A savoir :
+- Le nom de votre radio 
+- l'url du flux de diffusion de votre radio
+- le type d'encodage du flux de votre radio (aac, mp3, flac, ogg...)
+
+De préférence, ne modifiez pas le code du logiciel à part ces trois éléments listés ci-dessus. Celà évitera tout problème.
+
+
+
+#################################
+### 2 : Démarrer le logiciel ###
+#################################
+
+Lancez le logiciel en double cliquant sur "START Nice Piges Radio" dans le répertoire du logiciel.
+
+Vous verrez un dossier "Piges nom_de_votre_radio" créé dans le répertoire du logiciel, les piges sont 
+rangées par jour de la semaine.
+
+Attention, le logiciel fonctionne sur un enregistrement d'une semaine, chaque heure d'une semaine passée
+est remplacée par la semaine courante !
+
+
+
+###################################
+### 3 : Piger plusieurs radios ###
+###################################
+
+Pour faire les piges de plusieurs flux (plusieurs radios), il suffit de copier le contenu du dossier de instance-1 vers un nouveau dossier à côté de celui-ci (par exemple "instance-2") mais ne copiez pas le sous-dossier "Piges nom_de_radio", de toute façon les piges seront recréées par le logiciel. 
+
+Mettez les paramètres de la radio que vous souhaitez.
+
+Lancez la deuxième instance du logiciel !
+
+
+
+########################################
+Bonne utilisation de "Nice Piges Radio"
+by valuthringer
