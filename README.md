@@ -3,6 +3,8 @@
 
 ## ETAPE 1 : Installation
 
+[➡️ Téléchargez sur votre PC Nice Piges Radio](https://github.com/valuthringer/Nice-Piges-Radio-Soft/archive/refs/heads/main.zip)
+
 Assurez-vous que python soit installé sur votre PC. Ouvrez le CMD et tapez :
 ```python
 python --version
