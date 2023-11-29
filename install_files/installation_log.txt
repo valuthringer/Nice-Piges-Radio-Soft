@@ -1,9 +1,0 @@
-pip 23.2.1 from C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\site-packages\pip (python 3.11)
-Requirement already satisfied: requests in c:\users\valen\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (2.31.0)
-Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\valen\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from requests) (3.3.2)
-Requirement already satisfied: idna<4,>=2.5 in c:\users\valen\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from requests) (3.4)
-Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\valen\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from requests) (2.1.0)
-Requirement already satisfied: certifi>=2017.4.17 in c:\users\valen\appdata\local\packages\pythonsoftwarefoundation.python.3.11_qbz5n2kfra8p0\localcache\local-packages\python311\site-packages (from requests) (2023.7.22)
-
-[notice] A new release of pip is available: 23.2.1 -> 23.3.1
-[notice] To update, run: C:\Users\valen\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe -m pip install --upgrade pip
